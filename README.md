@@ -57,3 +57,8 @@ python3 zeb.py encode "hello" > hello.zeb
 ## Version
 
 1.0.0
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/Lossless/wiki](https://github.com/fitzyracing1/Lossless/wiki)
